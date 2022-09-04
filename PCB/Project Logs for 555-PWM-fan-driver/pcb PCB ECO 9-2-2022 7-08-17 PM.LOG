@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=J1-3
+Removed Pin From Net: NetName=NetD1_2 Pin=J1-5
+Added Pin To Net: NetName=NetD1_2 Pin=J1-3
+Added Pin To Net: NetName=NetD2_2 Pin=J1-5
+Added Member To Class: ClassName=schem Member=Component J2 TB007-508-05BE
+Added Room: Name=schem
