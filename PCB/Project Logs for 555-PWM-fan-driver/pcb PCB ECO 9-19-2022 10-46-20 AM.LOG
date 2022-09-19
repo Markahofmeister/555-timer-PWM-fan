@@ -1,0 +1,9 @@
+Added Component: Designator=R(RESC3216X70N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCWCTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RCWCTE/KOA%20Speer/view-part/1310479/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=schem Member=Component R RCWCTE

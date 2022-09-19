@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\marka\Fall-2022\Junior-Design\555-timer-PWM-fan\PCB\pcb.PcbDoc
-Date     : 9/18/2022
-Time     : 8:01:52 PM
+Date     : 9/19/2022
+Time     : 11:43:58 AM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Top Layer')),(All)
 Rule Violations :0
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
