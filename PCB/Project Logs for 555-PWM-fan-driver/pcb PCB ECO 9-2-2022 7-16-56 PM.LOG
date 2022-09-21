@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetD1_1 Pin=J1-3
-Removed Pin From Net: NetName=NetC2_1 Pin=J1-4
-Added Pin To Net: NetName=NetC2_1 Pin=J1-3
-Added Pin To Net: NetName=NetD1_1 Pin=J1-4
-Added Member To Class: ClassName=schem Member=Component C2 RCER71H103K0K1H03B
-Added Room: Name=schem
